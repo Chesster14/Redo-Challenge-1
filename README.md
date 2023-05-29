@@ -1,5 +1,6 @@
 # Redo-Challenge-1
 Read README!
+<<<<<<< HEAD
 # 01 HTML, CSS, and Git: Code Refactor
 
 
@@ -27,3 +28,6 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+=======
+Due when I want
+>>>>>>> 742febd1ae3684ea6b4cfd9ae84c798057d5eee0
